@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/beavered/static/css/main.3a2b5c94.css",
-    "main.js": "/beavered/static/js/main.3e1c9910.js",
-    "index.html": "/beavered/index.html",
-    "main.3a2b5c94.css.map": "/beavered/static/css/main.3a2b5c94.css.map",
-    "main.3e1c9910.js.map": "/beavered/static/js/main.3e1c9910.js.map"
+    "main.css": "/static/css/main.3a2b5c94.css",
+    "main.js": "/static/js/main.3e1c9910.js",
+    "index.html": "/index.html",
+    "main.3a2b5c94.css.map": "/static/css/main.3a2b5c94.css.map",
+    "main.3e1c9910.js.map": "/static/js/main.3e1c9910.js.map"
   },
   "entrypoints": [
     "static/css/main.3a2b5c94.css",
